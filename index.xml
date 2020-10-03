@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://jihonggang.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 16:38:31 +0800</lastBuildDate><atom:link href="https://jihonggang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javaSE面试题</title>
+      <link>https://jihonggang.github.io/post/blog/</link>
+      <pubDate>Sat, 03 Oct 2020 16:38:31 +0800</pubDate>
+      
+      <guid>https://jihonggang.github.io/post/blog/</guid>
+      <description>javaSE面试题
+1、java 中八种基本类型，以及封装类？
+答：八种基本数据类型，int, double, long, float, short, byte, character, boolean
+对应的封装类型是：Integer, Double, Long, Float, Short, Byte, Character, Boolean
+2</description>
+    </item>
+    
+  </channel>
+</rss>
